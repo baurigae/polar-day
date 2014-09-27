@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Polar Day
+Comment=still cold
+Encoding=UTF-8
+
+Name[en_US]=index.theme
+
+[X-GNOME-Metatheme]
+GtkTheme=Polar Day
+MetacityTheme=Polar Day
+ButtonLayout=:minimize,maximize,close
+IconTheme=gnome
