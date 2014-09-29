@@ -2,7 +2,7 @@
 
 >
 
-![alt tag]()
+![alt tag](https://raw.githubusercontent.com/baurigae/polar-day/master/scrot.png)
 
 
 A GTK3/2/Unity theme for **Ubuntu 14.04 LTS and Gnome 3.10**
@@ -39,8 +39,3 @@ Confusingly, Polar Day is not the light version of [Polar Night](https://github.
 ######otherwise
 
 The screenshot shows app icons from [Flattr](https://github.com/NitruxSA/flattr-icons)
-
-The panel transparency is set to about 70% using Unity Tweak Tool
-
-[The wallpaper]()
-
