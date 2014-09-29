@@ -10,7 +10,7 @@ A GTK3/2/Unity theme for **Ubuntu 14.04 LTS and Gnome 3.10**
 
 **Original theme & credit:** [Flatts](http://nale12.deviantart.com/#/art/Flatts-09022014-432924057?hf=1)
 
-Window buttons/Unity launcher customization [Numix]()
+Window buttons/Unity launcher customization [Numix](https://github.com/numixproject)
 
 ######the mod
 
@@ -20,8 +20,8 @@ Window buttons/Unity launcher customization [Numix]()
 - Nautilus specific changes, to buttons, linked buttons, insensitive sidebar style; Unity window decorations changes
 - gtk2 apps now draw from a simple gtkrc; the theme is still WIP mostly because I really want to make that perfect :)
 
-The theme uses a light panel by default. To use a dark panel, go to the gtk-3.0 directory, and uncomment this line in the  gtk.css file
-`@import url("unity-dark.css")`
+The theme uses a dark panel by default. To use a light panel, go to the gtk-3.0 directory, and uncomment this line in the  gtk.css file
+`@import url("unity-light.css")`
 commenting out at the same time this one
 `@import url("unity.css")`
 
