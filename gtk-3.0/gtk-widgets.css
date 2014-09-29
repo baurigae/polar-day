@@ -186,7 +186,7 @@ GtkAssistant .sidebar {
     border-style: solid;
     border-color: transparent;
     border-radius: 3px;
-    background-color: #FAFAFA;
+    background-color: #F5F5F5;
     background-image: none;
     color: @theme_text_color;
 }
@@ -1416,7 +1416,7 @@ GtkComboBox .separator {
 .sidebar GtkScrolledWindow {
     -GtkScrolledWindow-scrollbar-spacing: 0;
     -GtkScrolledWindow-scrollbars-within-bevel: 0;
-    background-color: #F7F7F7;
+    background-color: #F5F5F5;
     color: @theme_text_color;
 }
 
@@ -2392,7 +2392,7 @@ border-width: 1px;
 .header-bar .button.raised.linked:active,
 .header-bar .raised.linked .button:active,
 .header-bar .linked .button:active {
-    background-color: #DEDEDE;
+    background-color: #F5F5F5;
     color: #666;
 }
 .primary-toolbar .linked .button:active:hover,
@@ -2404,7 +2404,7 @@ border-width: 1px;
 .header-bar .button.raised.linked:active:hover,
 .header-bar .raised.linked .button:active:hover,
 .header-bar .linked .button:active:hover {
-    background-color: shade(#DEDEDE, 1.08);
+    background-color: shade(#F5F5F5, 1.08);
 }
 .primary-toolbar .linked .button:insensitive,
 .primary-toolbar .button.raised.linked:insensitive,

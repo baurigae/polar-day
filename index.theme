@@ -4,8 +4,6 @@ Name=Polar Day
 Comment=still cold
 Encoding=UTF-8
 
-Name[en_US]=index.theme
-
 [X-GNOME-Metatheme]
 GtkTheme=Polar Day
 MetacityTheme=Polar Day
