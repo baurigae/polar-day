@@ -2,7 +2,7 @@
 
 >
 
-![alt tag](https://raw.githubusercontent.com/baurigae/polar-day/master/scrot.png)
+![alt tag](https://raw.githubusercontent.com/baurigae/polar-day/master/scrot0.png)
 
 
 A GTK3/2/Unity theme for **Ubuntu 14.04 LTS and Gnome 3.10**
