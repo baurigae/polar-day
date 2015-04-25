@@ -32,7 +32,7 @@ Confusingly, Polar Day is not the light version of [Polar Night](https://github.
 ######plus
 
 
-[A Firefox (30, 31, 32) css style](https://github.com/baurigae/firefox-mods/blob/master/polaris.css)
+[A Firefox (30-37) css style](https://github.com/baurigae/firefox-mods/blob/master/polaris.css)
 
 ![alt tag](https://raw.githubusercontent.com/baurigae/firefox-mods/master/polarisscrot.png)
 
